@@ -1,0 +1,13 @@
+name: torch
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pytorch
+  - torchvision
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyter
